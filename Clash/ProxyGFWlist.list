@@ -1,5 +1,9 @@
 # 代理列表
 
+# 自定义
+DOMAIN-SUFFIX,zodgame.xyz
+DOMAIN-KEYWORD,newtoki
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org

@@ -22,6 +22,24 @@ DOMAIN-SUFFIX,hmt-match.nikke-kr.com
 DOMAIN-SUFFIX,aws-na.intlgame.com
 DOMAIN-SUFFIX,cloud.nikke-kr.com
 
+# NIKKE
+DOMAIN,global-lobby.nikke-kr.com
+DOMAIN,cloud.nikke-kr.com
+DOMAIN,sg-vas.intlgame.com
+DOMAIN,aws-na-dr.intlgame.com
+DOMAIN,data-aws-na.intlgame.com
+DOMAIN,pc.crashsight-us.iegcom.com
+IP-CIDR,43.152.114.31/32,no-resolve
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,iegcom.com
+DOMAIN,down.anticheatexpert.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN,catalog.gamepass.com
+DOMAIN,na1.centauriglobal.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,centauriglobal.com
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org

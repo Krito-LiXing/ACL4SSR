@@ -25,6 +25,20 @@ DOMAIN-SUFFIX,ryuugames.com
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,jp-lobby.nikke-kr.com
+DOMAIN-SUFFIX,kr-lobby.nikke-kr.com
+DOMAIN-SUFFIX,global-lobby.nikke-kr.com
+DOMAIN-SUFFIX,sea-lobby.nikke-kr.com
+DOMAIN-SUFFIX,hmt-lobby.nikke-kr.com
+DOMAIN-SUFFIX,jp-match.nikke-kr.com
+DOMAIN-SUFFIX,kr-match.nikke-kr.com
+DOMAIN-SUFFIX,global-match.nikke-kr.com
+DOMAIN-SUFFIX,sea-match.nikke-kr.com
+DOMAIN-SUFFIX,hmt-match.nikke-kr.com
+DOMAIN-SUFFIX,cloud.nikke-kr.com
 
 # NIKKE
 DOMAIN,global-lobby.nikke-kr.com

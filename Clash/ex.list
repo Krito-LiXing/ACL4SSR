@@ -1,0 +1,20 @@
+# 代理列表
+
+# EX
+DOMAIN,DOMAIN,DOMAIN,alt.hentaiverse.org
+DOMAIN,DOMAIN,e-hentai.org
+DOMAIN,forums.e-hentai.org
+DOMAIN,repo.e-hentai.org
+DOMAIN,xml.e-hentai.org
+DOMAIN,api.e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN,ehtracker.org
+DOMAIN,ehwiki.org
+DOMAIN,hentaiathome.net
+DOMAIN,rpc.hentaiathome.net
+DOMAIN,hentaiverse.org
+DOMAIN,upload.e-hentai.org
+DOMAIN-SUFFIX,forums.e-hentai.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org  
+DOMAIN,xml.ehgt.org
